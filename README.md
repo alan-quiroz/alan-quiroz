@@ -253,14 +253,69 @@ Portfolio web creado para presentar mi perfil, tecnologías, proyectos y evoluci
      06 · ESTADÍSTICAS
 ========================================================= -->
 
+<!-- =========================================================
+     06 · ESTADÍSTICAS
+========================================================= -->
+
 ## 📊 統計 · GitHub Statistics
 
 <div align="center">
 
+<p>
+  <img
+    src="https://img.shields.io/badge/GITHUB-PROFILE%20DATA-C6A15B?style=for-the-badge&labelColor=111111"
+    alt="GitHub Profile Data"
+  />
+</p>
+
+<p>
+  Estadísticas generales de actividad, lenguajes y evolución dentro de GitHub.
+</p>
+
+<br>
+
+<!-- ESTADÍSTICAS PRINCIPALES -->
+
 <img
   width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alan-quiroz&theme=github_dark"
-  alt="GitHub Statistics"
+  src="https://github-readme-stats.vercel.app/api?username=alan-quiroz&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=C6A15B&text_color=F5E6C8&icon_color=7A1C1C&ring_color=C6A15B&include_all_commits=true&count_private=true"
+  alt="Alan Quiroz GitHub Stats"
+/>
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-quiroz&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=C6A15B&text_color=F5E6C8&langs_count=8"
+  alt="Alan Quiroz Top Languages"
+/>
+
+<br><br>
+
+<!-- RACHA DE CONTRIBUCIONES -->
+
+<img
+  width="98%"
+  src="https://streak-stats.demolab.com?user=alan-quiroz&hide_border=true&background=0A0A0A&ring=C6A15B&fire=7A1C1C&currStreakLabel=C6A15B&currStreakNum=F5E6C8&sideNums=F5E6C8&sideLabels=F5E6C8&dates=8F7D6A"
+  alt="Alan Quiroz GitHub Streak"
+/>
+
+<br><br>
+
+<!-- RESUMEN DEL PERFIL -->
+
+<img
+  width="98%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alan-quiroz&theme=github_dark"
+  alt="Alan Quiroz Profile Summary"
+/>
+
+<br>
+
+<!-- INDICADORES SECUNDARIOS -->
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alan-quiroz&theme=github_dark"
+  alt="Repositories per Language"
 />
 
 <img
@@ -269,32 +324,21 @@ Portfolio web creado para presentar mi perfil, tecnologías, proyectos y evoluci
   alt="Productive Time"
 />
 
-<br>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alan-quiroz&theme=github_dark"
-  alt="Languages by repository"
-/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alan-quiroz&theme=github_dark"
-  alt="Languages by commit"
-/>
-
 <br><br>
 
 <img
-  width="99%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alan-quiroz&theme=github_dark"
-  alt="Profile Details"
+  src="https://img.shields.io/badge/STATUS-BUILDING%20EVERY%20DAY-7A1C1C?style=flat-square&labelColor=111111"
+  alt="Building Every Day"
+/>
+
+&nbsp;
+
+<img
+  src="https://img.shields.io/badge/PATH-FULL%20STACK-C6A15B?style=flat-square&labelColor=111111"
+  alt="Full Stack Path"
 />
 
 </div>
-
-
----
 
 <!-- =========================================================
      07 · ACTIVIDAD
