@@ -245,14 +245,6 @@ Portfolio web creado para presentar mi perfil, tecnologías, proyectos y evoluci
 
 > 新しいプロジェクトはここから始まる  
 > Nuevos proyectos serán incorporados a medida que continúe avanzando.
-
-
----
-
-<!-- =========================================================
-     06 · ESTADÍSTICAS
-========================================================= -->
-
 <!-- =========================================================
      06 · ESTADÍSTICAS
 ========================================================= -->
