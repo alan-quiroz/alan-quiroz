@@ -1,47 +1,62 @@
 <!-- =========================================================
-     ALAN QUIROZ · GITHUB PROFILE README
+     ALAN QUIROZ · GITHUB PROFILE
+     Japanese Oni × Noir × Red × Gold
 
-     Estética:
-     Japanese Mafia × Oni × Noir × Red × Gold
-
-     Paleta:
-     Negro        #0A0A0A
-     Negro suave  #111111
-     Bordó oscuro #240909
-     Bordó        #4A0E0E
-     Rojo         #7A1C1C
-     Dorado       #C6A15B
-     Marfil       #F5E6C8
+     PALETA
+     Negro ........ #0A0A0A
+     Negro suave .. #111111
+     Bordó oscuro . #240909
+     Bordó ........ #4A0E0E
+     Rojo ......... #7A1C1C
+     Dorado ....... #C6A15B
+     Marfil ....... #F5E6C8
 ========================================================= -->
 
+
+<!-- =========================================================
+     BANNER
+========================================================= -->
 
 <div align="center">
 
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0A0A0A,22:1A0F0F,48:4A0E0E,73:7A1C1C,100:C6A15B&text=ALAN%20QUIROZ&fontColor=F5E6C8&fontSize=54&fontAlignY=36&desc=WEB%20DEVELOPER%20IN%20PROGRESS%20%7C%20SYSTEMS%20ANALYST%20STUDENT&descAlignY=57&descSize=16&animation=fadeIn"
-  alt="Alan Quiroz Banner"
+  alt="Alan Quiroz"
 />
+
+</div>
+
+
+<!-- =========================================================
+     IDENTIDAD / PRESENTACIÓN
+========================================================= -->
+
+<div align="center">
 
 # 「 アラン・キロス 」
 
-### 👹 Web Developer in Progress · Systems Analyst Student
+### 👹 Web Developer in Progress
+
+**Systems Analyst Student · Frontend + Backend · Camino Full Stack**
+
+<br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=850&color=C6A15B&center=true&vCenter=true&width=760&height=55&lines=Frontend+%2B+Backend+%E2%86%92+Camino+Full+Stack;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+MySQL;Learning+%E2%86%92+Building+%E2%86%92+Improving;%E9%AC%BC+%E2%80%A2+Code+%E2%80%A2+Discipline+%E2%80%A2+Growth"
-  alt="Typing Animation"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=C6A15B&center=true&vCenter=true&width=760&height=50&lines=Frontend+%2B+Backend+%E2%86%92+Camino+Full+Stack;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+MySQL;Learning+%E2%86%92+Building+%E2%86%92+Improving;%E5%AD%A6%E3%81%B6+%E2%86%92+%E4%BD%9C%E3%82%8B+%E2%86%92+%E6%88%90%E9%95%B7%E3%81%99%E3%82%8B"
+  alt="Alan Quiroz typing animation"
 />
 
 <br>
 
-<a href="https://alan-quiroz.github.io/alan-quiroz-portfolio/" target="_blank">
+<a href="https://alan-quiroz.github.io/alan-quiroz-portfolio/">
   <img
     src="https://img.shields.io/badge/PORTFOLIO-VISITAR-7A1C1C?style=for-the-badge&logo=firefox&logoColor=F5E6C8"
     alt="Portfolio"
   />
 </a>
 
-<a href="https://github.com/alan-quiroz" target="_blank">
+<a href="https://github.com/alan-quiroz">
   <img
     src="https://img.shields.io/badge/GITHUB-alan--quiroz-111111?style=for-the-badge&logo=github&logoColor=C6A15B"
     alt="GitHub"
@@ -65,9 +80,39 @@
 </div>
 
 
+<!-- =========================================================
+     INFORMACIÓN PROFESIONAL
+========================================================= -->
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://img.shields.io/badge/UBICACIÓN-Villa%20Constitución%20·%20Santa%20Fe-111111?style=flat-square&logo=googlemaps&logoColor=C6A15B"
+  alt="Villa Constitución Santa Fe"
+/>
+
+<img
+  src="https://img.shields.io/badge/ROL-Web%20Developer%20in%20Progress-4A0E0E?style=flat-square&logo=code&logoColor=F5E6C8"
+  alt="Web Developer in Progress"
+/>
+
+<img
+  src="https://img.shields.io/badge/OBJETIVO-Full%20Stack-7A1C1C?style=flat-square&logo=rocket&logoColor=F5E6C8"
+  alt="Full Stack"
+/>
+
+</div>
+
+
 ---
 
-# 👹 鬼 · ONI PROFILE
+<!-- =========================================================
+     SOBRE MÍ
+========================================================= -->
+
+## 👹 鬼 · Sobre mí
 
 Soy **Alan Quiroz**, estudiante de **Analista de Sistemas** y **desarrollador web en formación**, con interés tanto en **frontend** como en **backend**.
 
@@ -76,65 +121,48 @@ Actualmente fortalezco mis conocimientos mediante proyectos prácticos, trabajan
 Uso GitHub como espacio para **documentar mi progreso, publicar proyectos y construir mi perfil profesional**.
 
 
-<div align="center">
-
-<img
-  src="https://img.shields.io/badge/UBICACIÓN-Villa%20Constitución%20·%20Santa%20Fe-111111?style=flat-square&logo=googlemaps&logoColor=C6A15B"
-  alt="Ubicación"
-/>
-
-<img
-  src="https://img.shields.io/badge/ROL-Web%20Developer%20in%20Progress-4A0E0E?style=flat-square&logo=code&logoColor=F5E6C8"
-  alt="Rol"
-/>
-
-<img
-  src="https://img.shields.io/badge/OBJETIVO-Full%20Stack-7A1C1C?style=flat-square&logo=rocket&logoColor=F5E6C8"
-  alt="Objetivo"
-/>
-
-</div>
-
-
 ---
 
-# 🥷 技術 · TECH STACK
+<!-- =========================================================
+     STACK TECNOLÓGICO
+========================================================= -->
 
+## 🥷 技術 · Tech Stack
 
 <div align="center">
 
-## FRONTEND
+### 🌐 Frontend
 
 <img
   src="https://skillicons.dev/icons?i=html,css,js&theme=dark"
-  alt="Frontend Skills"
+  alt="HTML CSS JavaScript"
 />
 
 <br><br>
 
-## BACKEND
+### ⚙️ Backend
 
 <img
   src="https://skillicons.dev/icons?i=php&theme=dark"
-  alt="Backend Skills"
+  alt="PHP"
 />
 
 <br><br>
 
-## DATABASE
+### 🗄️ Base de datos
 
 <img
   src="https://skillicons.dev/icons?i=mysql&theme=dark"
-  alt="Database Skills"
+  alt="MySQL"
 />
 
 <br><br>
 
-## TOOLS
+### 🛠️ Herramientas
 
 <img
   src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"
-  alt="Tools"
+  alt="Git GitHub VS Code"
 />
 
 <br><br>
@@ -153,6 +181,8 @@ Uso GitHub como espacio para **documentar mi progreso, publicar proyectos y cons
   src="https://img.shields.io/badge/JavaScript-7A1C1C?style=for-the-badge&logo=javascript&logoColor=F5E6C8"
   alt="JavaScript"
 />
+
+<br>
 
 <img
   src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=C6A15B"
@@ -184,18 +214,21 @@ Uso GitHub como espacio para **documentar mi progreso, publicar proyectos y cons
 
 ---
 
-# 📚 学習 · ACTUALMENTE APRENDIENDO
+<!-- =========================================================
+     ACTUALMENTE APRENDIENDO
+========================================================= -->
 
+## 📚 学習中 · Actualmente aprendiendo
 
 <div align="center">
 
 | Área | Enfoque actual |
-|:---:|:---|
-| 🌐 Frontend | HTML · CSS · JavaScript |
-| ⚙️ Backend | PHP |
-| 🗄️ Database | MySQL · Modelado · Consultas |
-| 🔧 Tools | Git · GitHub · VS Code |
-| 🎯 Objetivo | Desarrollo Web Full Stack |
+| :--- | :--- |
+| 🌐 **Frontend** | HTML · CSS · JavaScript |
+| ⚙️ **Backend** | PHP |
+| 🗄️ **Base de datos** | MySQL · Modelado · Consultas |
+| 🔧 **Herramientas** | Git · GitHub · VS Code |
+| 🎯 **Objetivo** | Desarrollo Web Full Stack |
 
 <br>
 
@@ -208,15 +241,18 @@ Uso GitHub como espacio para **documentar mi progreso, publicar proyectos y cons
 
 ---
 
-# 🚀 プロジェクト · PROYECTO DESTACADO
+<!-- =========================================================
+     PROYECTOS
+========================================================= -->
+
+## 🚀 プロジェクト · Proyectos destacados
 
 
-## 01 · ALUSTOCK
+### 01 · AluStock
 
 Sistema web de gestión orientado a **productos, categorías, stock, precios y ventas**, desarrollado como parte de mi formación práctica en desarrollo web.
 
-
-<div align="left">
+<p>
 
 <img
   src="https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=C6A15B"
@@ -234,52 +270,47 @@ Sistema web de gestión orientado a **productos, categorías, stock, precios y v
 />
 
 <img
-  src="https://img.shields.io/badge/MVC-Architecture-111111?style=flat-square&logoColor=C6A15B"
+  src="https://img.shields.io/badge/MVC-Architecture-111111?style=flat-square&labelColor=111111&color=C6A15B"
   alt="MVC"
 />
 
-</div>
+</p>
 
-<br>
+**Estado:** 🛠️ En desarrollo
 
-### Estado
-
-🛠️ **En desarrollo**
-
-> Esta sección irá creciendo a medida que publique nuevos proyectos web y continúe desarrollando mis habilidades.
+> Esta sección crecerá a medida que publique nuevos proyectos web y continúe desarrollando mis habilidades.
 
 
 ---
 
-# 🌐 ポートフォリオ · PORTFOLIO
+<!-- =========================================================
+     PORTFOLIO
+========================================================= -->
 
+## 🌐 ポートフォリオ · Portfolio
 
 <div align="center">
 
-## Mi espacio personal en la web
+### Mi espacio personal en la web
 
 Una experiencia visual creada para presentar mi perfil, tecnologías, proyectos y evolución como desarrollador web.
 
 <br>
 
-<a href="https://alan-quiroz.github.io/alan-quiroz-portfolio/" target="_blank">
-
-<img
-  src="https://img.shields.io/badge/ABRIR%20PORTFOLIO-7A1C1C?style=for-the-badge&logo=googlechrome&logoColor=F5E6C8"
-  alt="Abrir Portfolio"
-/>
-
+<a href="https://alan-quiroz.github.io/alan-quiroz-portfolio/">
+  <img
+    src="https://img.shields.io/badge/ABRIR%20PORTFOLIO-7A1C1C?style=for-the-badge&logo=googlechrome&logoColor=F5E6C8"
+    alt="Abrir Portfolio"
+  />
 </a>
 
 <br><br>
 
-<a href="https://github.com/alan-quiroz/alan-quiroz-portfolio" target="_blank">
-
-<img
-  src="https://img.shields.io/badge/VER%20REPOSITORIO-111111?style=for-the-badge&logo=github&logoColor=C6A15B"
-  alt="Repositorio Portfolio"
-/>
-
+<a href="https://github.com/alan-quiroz/alan-quiroz-portfolio">
+  <img
+    src="https://img.shields.io/badge/VER%20REPOSITORIO-111111?style=for-the-badge&logo=github&logoColor=C6A15B"
+    alt="Repositorio Portfolio"
+  />
 </a>
 
 </div>
@@ -287,8 +318,11 @@ Una experiencia visual creada para presentar mi perfil, tecnologías, proyectos 
 
 ---
 
-# 📊 統計 · GITHUB STATISTICS
+<!-- =========================================================
+     ESTADÍSTICAS GENERALES
+========================================================= -->
 
+## 📊 統計 · GitHub Statistics
 
 <div align="center">
 
@@ -296,20 +330,6 @@ Una experiencia visual creada para presentar mi perfil, tecnologías, proyectos 
   width="49%"
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alan-quiroz&theme=github_dark"
   alt="GitHub Stats"
-/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alan-quiroz&theme=github_dark"
-  alt="Languages"
-/>
-
-<br>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alan-quiroz&theme=github_dark"
-  alt="Commit Languages"
 />
 
 <img
@@ -323,7 +343,30 @@ Una experiencia visual creada para presentar mi perfil, tecnologías, proyectos 
 <img
   width="99%"
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alan-quiroz&theme=github_dark"
-  alt="Profile Details"
+  alt="GitHub Profile Details"
+/>
+
+</div>
+
+
+<!-- =========================================================
+     LENGUAJES
+========================================================= -->
+
+### 💻 Languages
+
+<div align="center">
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alan-quiroz&theme=github_dark"
+  alt="Languages by repositories"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alan-quiroz&theme=github_dark"
+  alt="Languages by commits"
 />
 
 </div>
@@ -331,8 +374,11 @@ Una experiencia visual creada para presentar mi perfil, tecnologías, proyectos 
 
 ---
 
-# 📈 活動 · ACTIVITY
+<!-- =========================================================
+     ACTIVIDAD
+========================================================= -->
 
+## 📈 活動 · Activity
 
 <div align="center">
 
@@ -345,10 +391,11 @@ Una experiencia visual creada para presentar mi perfil, tecnologías, proyectos 
 </div>
 
 
----
+<!-- =========================================================
+     CONTRIBUTION SNAKE
+========================================================= -->
 
-# 👹 鬼の軌跡 · CONTRIBUTION PATH
-
+### 👹 鬼の軌跡 · Contribution Path
 
 <div align="center">
 
@@ -365,8 +412,9 @@ Una experiencia visual creada para presentar mi perfil, tecnologías, proyectos 
   />
 
   <img
-    alt="Alan Quiroz Contribution Snake"
+    width="100%"
     src="https://raw.githubusercontent.com/alan-quiroz/alan-quiroz/output/github-snake.svg"
+    alt="Alan Quiroz Contribution Snake"
   />
 
 </picture>
@@ -383,8 +431,11 @@ Una experiencia visual creada para presentar mi perfil, tecnologías, proyectos 
 
 ---
 
-# 🎯 目標 · OBJETIVOS
+<!-- =========================================================
+     OBJETIVOS
+========================================================= -->
 
+## 🎯 目標 · Objetivos
 
 <div align="center">
 
@@ -399,7 +450,7 @@ Una experiencia visual creada para presentar mi perfil, tecnologías, proyectos 
 />
 
 <img
-  src="https://img.shields.io/badge/03-BUILD-111111?style=for-the-badge&labelColor=111111&color=111111"
+  src="https://img.shields.io/badge/03-BUILD-111111?style=for-the-badge&color=111111"
   alt="Build"
 />
 
@@ -421,16 +472,15 @@ Una experiencia visual creada para presentar mi perfil, tecnologías, proyectos 
 - Obtener experiencia profesional en el área tecnológica.
 
 
----
+<!-- =========================================================
+     ROADMAP
+========================================================= -->
 
-# 🗺️ 鬼の道 · DEVELOPER ROADMAP
-
+### 🗺️ 鬼の道 · Developer Roadmap
 
 <div align="center">
 
-## 鬼の道
-
-### LEARNING → PRACTICE → DEVELOPMENT → PUBLISH → GROWTH
+**LEARNING → PRACTICE → DEVELOPMENT → PUBLISH → GROWTH**
 
 <br>
 
@@ -459,36 +509,37 @@ Una experiencia visual creada para presentar mi perfil, tecnologías, proyectos 
 
 ---
 
-# 📬 連絡 · CONTACTO
+<!-- =========================================================
+     CONTACTO
+========================================================= -->
 
+## 📬 連絡 · Contacto
 
 <div align="center">
 
+### ¿Querés conocer más de mi trabajo?
+
+<br>
+
 <a href="https://github.com/alan-quiroz">
-
-<img
-  src="https://img.shields.io/badge/GITHUB-alan--quiroz-111111?style=for-the-badge&logo=github&logoColor=C6A15B"
-  alt="GitHub"
-/>
-
+  <img
+    src="https://img.shields.io/badge/GITHUB-alan--quiroz-111111?style=for-the-badge&logo=github&logoColor=C6A15B"
+    alt="GitHub"
+  />
 </a>
 
 <a href="mailto:alanquiroz969@gmail.com">
-
-<img
-  src="https://img.shields.io/badge/GMAIL-alanquiroz969%40gmail.com-4A0E0E?style=for-the-badge&logo=gmail&logoColor=F5E6C8"
-  alt="Gmail"
-/>
-
+  <img
+    src="https://img.shields.io/badge/GMAIL-alanquiroz969%40gmail.com-4A0E0E?style=for-the-badge&logo=gmail&logoColor=F5E6C8"
+    alt="Gmail"
+  />
 </a>
 
 <a href="https://alan-quiroz.github.io/alan-quiroz-portfolio/">
-
-<img
-  src="https://img.shields.io/badge/PORTFOLIO-VISITAR-7A1C1C?style=for-the-badge&logo=firefox&logoColor=F5E6C8"
-  alt="Portfolio"
-/>
-
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-VISITAR-7A1C1C?style=for-the-badge&logo=firefox&logoColor=F5E6C8"
+    alt="Portfolio"
+  />
 </a>
 
 <br><br>
@@ -502,9 +553,13 @@ Una experiencia visual creada para presentar mi perfil, tecnologías, proyectos 
 
 ---
 
+<!-- =========================================================
+     CIERRE
+========================================================= -->
+
 <div align="center">
 
-# 👹 継続は力なり
+## 👹 継続は力なり
 
 ### 「La constancia se convierte en fuerza」
 
@@ -515,7 +570,7 @@ Una experiencia visual creada para presentar mi perfil, tecnologías, proyectos 
   alt="Footer Typing Animation"
 />
 
-<br><br>
+<br>
 
 <img
   width="100%"
